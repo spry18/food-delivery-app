@@ -2,6 +2,7 @@
   "name": "food-delivery-app",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "@mui/icons-material": "^5.14.3",
     "@testing-library/jest-dom": "^5.17.0",

@@ -11,7 +11,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.bundle';
 import Signup from './screens/Signup';
 import { CartProvider } from './components/contextReducer';
 import MyOrder from './screens/MyOrder';
-//import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min.jss';
+// import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min.jss';
 
 function App() {
   return (

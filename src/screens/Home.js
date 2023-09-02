@@ -10,6 +10,7 @@ export default function Home() {
 
   const loadData = async () => {
     let response = await fetch("http://localhost:5000/api/foodData", {
+      mode: 'no-cors',
       method: "POST",
       headers: {
         'Content-Type': 'application/json'
